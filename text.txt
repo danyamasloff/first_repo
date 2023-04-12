@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bye-bye
+=======
+Hello
+>>>>>>> refs/remotes/origin/main
